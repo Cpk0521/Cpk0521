@@ -1,5 +1,5 @@
 <p align="center" >
-  <img height="400" src="https://cue-profile.vercel.app/profile?id=4130012&name=NaN&bloom=2&x=300">
+  <img height="400" src="https://cue-profile.vercel.app/profile?id=4130012&name=NaN&bloom=1&x=300">
 </p>
 <p align="center" >
   <img width="420" alt='' src="https://github-readme-stats.vercel.app/api?username=cpk0521&show_icons=true&theme=radical&locale=zh-tw&hide_border=true&bg_color=00000000">
